@@ -10,7 +10,7 @@ html {
 
 h1 {
   position: relative;
-  top: 18.5rem;
+  top: 17vh;
   width: 100%;
   text-align: center;
   font-family: "Radio Canada Big";
@@ -129,7 +129,7 @@ select {
 @media (max-width: 440px) {
   h1 {
     font-size: 4rem;
-    top: 11.5rem;
+    top: 10.5vh;
   }
   
   #banner {
@@ -153,6 +153,6 @@ select {
 @media (max-width: 300px) {
   h1 {
     font-size: 3rem;
-    top: 13rem;
+    top: 10.5vh;
   }
 }
