@@ -96,6 +96,7 @@ select {
   transform: translate(-50%, 0);
   width: 35%;
   height: 4rem;
+  margin-bottom: 2rem;
   border: none;
   background-color: red;
   color: white;
