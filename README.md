@@ -1,3 +1,3 @@
 # Responsive Anime Survey Form
 
-## [Live Preview](animesurveyform.netlify.app)
+## [Live Preview](https://animesurveyform.netlify.app)
