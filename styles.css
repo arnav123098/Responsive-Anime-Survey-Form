@@ -133,7 +133,10 @@ select {
 @media (max-width: 440px) {
   h1 {
     font-size: 4rem;
-    top: 20vh;
+  }
+  
+  .main-hr {
+    margin: 33vh auto; 
   }
   
   .info-input {
