@@ -129,14 +129,30 @@ select {
 @media (max-width: 440px) {
   h1 {
     font-size: 4rem;
+    top: 5rem;
+  }
+  
+  #banner {
+    height: 25vh;
+  }
+  
+  form {
+    top: 17rem;
   }
   
   .info-input {
     width: 95%;
   }
- 
+  
   #github {
     height: 45px;
     width: 45px;
+  }
+}
+
+@media (max-width: 300px) {
+  h1 {
+    font-size: 3rem;
+    top: 6rem;
   }
 }
