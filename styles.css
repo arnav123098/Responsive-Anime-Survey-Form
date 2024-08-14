@@ -32,12 +32,6 @@ h1 {
   z-index: 0;
 }
 
-.main-hr {
-  margin: 29.25vh auto; 
-  width: 90vw;
-  border: 0.25px solid red;
-}
-
 form {
   position: absolute;
   top: 47vh;
@@ -135,21 +129,10 @@ select {
     font-size: 4rem;
   }
   
-  .main-hr {
-    margin: 33vh auto; 
-  }
-  
   .info-input {
     width: 95%;
   }
-}
-
-@media (min-width: 1100px) {
-  .main-hr {
-    margin: 30vh auto;
-  }
-}
-  
+ 
   #github {
     height: 45px;
     width: 45px;
